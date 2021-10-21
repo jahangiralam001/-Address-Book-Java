@@ -23,7 +23,7 @@ class Login extends JFrame {
         setSize(470,400);
         setVisible(true);
         setDefaultCloseOperation(HIDE_ON_CLOSE);
-        setLayout(null); //fuck you;
+        setLayout(null); 
 
 
         JLabel y = new JLabel("Administrator Verification Area");
